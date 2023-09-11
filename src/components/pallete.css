@@ -1,0 +1,32 @@
+.green{
+    height: 30px;
+    width: 30px;
+    background-color: #183D3D;
+    border-radius: 100%;
+    margin: 0px 5px;
+    border: 1px solid white;
+    cursor: pointer;
+}   
+.blue{
+    height: 30px;
+    width: 30px;
+    background-color: #19376D;
+    border-radius: 100%;
+    margin: 0px 5px;
+    border: 1px solid white;
+    cursor: pointer;
+    
+}
+.gray{
+    height: 30px;
+    width: 30px;
+    background-color: #1B2430;
+    border-radius: 100%;
+    margin: 0px 5px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.hide{
+    display: block;
+}
